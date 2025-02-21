@@ -115,7 +115,7 @@ h1 {
 .envelope > .letter > .text {
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
     color: var(--txt-color);
-    text-align: left;
+    text-align: justify;
     font-size: 12px;
     border: 3px dotted var(--txt-color);
     padding: 10px;
@@ -224,4 +224,8 @@ h1 {
         border-left: 150px solid transparent;
 }
 
+}
+
+img {
+    margin-left: 20px;
 }
